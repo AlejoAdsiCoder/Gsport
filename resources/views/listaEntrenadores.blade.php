@@ -4,8 +4,8 @@
 <div class="container">
 <div class="card">
   <div class="card-header">
-  <i class="fas fa-user"></i>Lista de entrenadores
-  <button type="button" class="btn btn-success btn-lg">Nuevo Entrenador</button>
+  <h4><i class="fas fa-user float-left"></i>Lista de entrenadores</h4>
+  <button type="button" class="btn btn-success btn-lg float-right">Nuevo Entrenador</button>
   </div>
   <div class="card-body">
     <div class="side col-md-8">
